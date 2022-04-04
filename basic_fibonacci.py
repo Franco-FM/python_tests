@@ -1,4 +1,4 @@
-# Create a loop function to get: "1 1 2 3 5 8 13 21 ...n". This on loops till the user number is reached,
+# Create a loop function to get: "1 1 2 3 5 8 13 21 ...n". This on loops till the user number (n) is reached,
 # if it matches it will print the number at the end but if the number surpasses the user number it won't print it.
 
 a=0
@@ -10,3 +10,5 @@ while b<=n:
     a,b=b,a+b
     
 print("\n")
+
+#Got it.
